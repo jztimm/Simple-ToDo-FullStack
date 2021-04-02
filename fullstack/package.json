@@ -1,0 +1,22 @@
+{
+  "name": "simple_tasker",
+  "version": "1.0.0",
+  "description": "Simple task tracker app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jztimm/Simple-ToDo-FullStack.git"
+  },
+  "author": "Jzavier Timm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jztimm/Simple-ToDo-FullStack/issues"
+  },
+  "homepage": "https://github.com/jztimm/Simple-ToDo-FullStack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
